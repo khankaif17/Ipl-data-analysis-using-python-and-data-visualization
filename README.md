@@ -61,7 +61,7 @@ This project provides a comprehensive data analysis of the 2022 Indian Premier L
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/ipl-2022-analysis.git
+   git clone https://github.com/khankaif17/ipl-2022-analysis.git
    cd ipl-2022-analysis
 2. pip install pandas numpy
 3. jupyter notebook Ipl2022_analysis.ipynb
